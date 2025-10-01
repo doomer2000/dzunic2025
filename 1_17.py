@@ -1,4 +1,4 @@
-#print("Your name is:" , input("Enter your name:"))
+#print("Your name is:", input("Enter your name:"))
 
 #print(input("Введите имя футб. команды: "), "– это чемпион!")
 
@@ -23,7 +23,16 @@
 #varV = int(input("Введите v: "))
 #varX = int(input("Введите x: "))
 #varY = int(input("Введите y: "))
-#
-#print("5" , "10", "\n", "7", "см")
-#print("10" , varT, "\n", "1949", varV)
-#print(varX , "25", "\n", varX, varY)
+
+#print(" 5", "10", "\n", "7", "см")
+#print(" 10", varT, "\n", "1949", varV)
+#print(" "+str(varX), "25", "\n", varX, varY)
+
+#varA = int(input("Введите a: "))
+#varB = int(input("Введите b: "))
+#varX1 = int(input("Введите x: "))
+#varY1 = int(input("Введите y: "))
+
+#print(" 2", "кг", "\n", "13", "17")
+#print(" "+str(varA), "1", "\n", "19", varB)
+#print(" "+str(varX1), varY1, "\n", "5", varY1)
